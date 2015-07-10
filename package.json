@@ -27,7 +27,8 @@
     "request": "^2.58.0",
     "serve-favicon": "~2.0.1",
     "unfluff": "^0.11.0",
-    "unirest": "^0.4.2"
+    "unirest": "^0.4.2",
+    "bower": "latest"
   },
   "devDependencies": {
     "grunt": "~0.4.4",
